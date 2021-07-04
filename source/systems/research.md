@@ -132,7 +132,7 @@ You can only have one sixth column research unlocked at a time!
 
 ### Civilian
 <br>
-<img src="../../assets/images/gui/university/civilian.png" class="img-fluid mx-auto" alt="University Civilian GUI Page">
+<img src="![2021-07-04_01 45 30](https://user-images.githubusercontent.com/86582706/124375903-fed54a80-dc69-11eb-9de1-16a19c047c5a.png)">
 <br>
 
 #### First Column
@@ -197,6 +197,7 @@ You can only have one sixth column research unlocked at a time!
 | Stuffer | Gorger | Restaurant at least level 4; 128 cookies | Food is 50% more effective at restoring colonists' saturation |
 | Bachelor | Bookworm | Library at least level 3; 12 bookshelves | Increases the effectiveness of Teachers by 25% |
 | Puberty | Hormones | Library at least level 3; 128 cooked chicken | Decreases the time it takes children to grow up by 25% |
+| Raising The Dead | Resurrection Chance II | Graveyard at least level 5; 1 Totem of Undying | Undertaker gains the ability to use Totems of Undying to assist in Resurrection |
 
 #### Fifth Column
 
